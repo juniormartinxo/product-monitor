@@ -1,6 +1,6 @@
-# 🚀 Amazon Product Monitor
+# 🚀 Product Monitor
 
-Monitor de disponibilidade de produtos da Amazon com notificações automáticas via desktop e email.
+Monitor de disponibilidade de produtos dos maiores players da internet com notificações automáticas via desktop e email.
 
 ## ✨ Funcionalidades
 
