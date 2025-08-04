@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Screenshots de debug
+screenshots/
+
+# Configurações sensíveis
+.env
+
+# Dados do produto
+product.json
+
+# Arquivos temporários
+*.tmp
+*.log
