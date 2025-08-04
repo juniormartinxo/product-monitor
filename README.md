@@ -196,4 +196,4 @@ Sinta-se à vontade para:
 
 ---
 
-**⚠️ Aviso**: Este projeto é apenas para monitoramento pessoal. Use com moderação para evitar sobrecarregar os servidores da Amazon.
+**⚠️ Aviso**: Este projeto é apenas para monitoramento pessoal. Use com moderação para evitar sobrecarregar os servidores da loja alvo.
